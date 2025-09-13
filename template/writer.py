@@ -13,5 +13,5 @@ class Writer:
             return
 if __name__ == "__main__":
     wt = Writer('test.xls')
-    wt.append("mario","A1")
+    wt.append("test","A1")
     wt.save("test.json")
