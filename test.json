@@ -1,11 +1,8 @@
 [
     {
-        "name":"test.xlsx"
+        "name": "test.xls"
     },
     {
-        "data":"A1"
-    },
-    {
-        "data2":"A2"
+        "mario": "A1"
     }
 ]
